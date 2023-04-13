@@ -6,7 +6,7 @@ public static String[][] movie = new String[2][2];
 public static Scanner input = new Scanner(System.in);
 public static Random num = new Random();
 public static int count = 0;
-
+# hi
 public static void intro(){
   System.out.print("\033\143");
   System.out.println("A multiverse shattering battle is brewing.");
